@@ -104,7 +104,7 @@ button:hover {
   transition: all 200ms ease-in;
 }
 
-.create-blog:hover{
+.create-blog:hover {
   padding: 10px 10px;
   box-shadow: 1px 3px 10px rgb(55, 54, 54);
 }
@@ -127,4 +127,14 @@ button:hover {
   border: 1px solid #ddd;
   box-sizing: border-box;
   display: block;
+}
+
+/* conetet not found  */
+
+.not-found {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 10px 10px;
 }
