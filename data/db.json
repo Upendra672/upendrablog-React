@@ -1,22 +1,40 @@
 {
   "blogs": [
-      {
-          "title": "As a Global Citizen of Earth - Take Action",
-          "body": "There have been five mass extinction events throughout the history of life on Earth. Each time biodiversity experienced a steep nosedive, wiping out abnormal amounts of species from the face of the planet. History's major extinction events happened because of natural events like shifts in the Earth's climate or incidents like asteroid strikes, but since humans began exercising our heavy grip on the planet, we may have inadvertently kicked off the sixth of these mass extinction events. In her Pulitzer Prize-winning work and arguably one of the best books on environmental science, Elizabeth Kolbert reports from the front line of biodiversity disappearance and ecological loss. By 2050, climate change may have driven the extinction of up to half of the world's species, a cataclysmic event initiated entirely by human development. Deforestation, sea level rise, and, most of all, greenhouse gas emissions are driving this mass extinction. What do we stand to lose? And what can we do to slow the pace of extinction? Writing with an unmatched entertaining and ironic voice, Kolbert also taps into the complex emotions that inevitably accompany witnessing such a tragedy and asks the biggest question that is increasingly difficult to answer. If this extinction comes to pass, then that will surely be the firmest imprint humanity could make on our planet. Are we okay with that being our most lasting legacy?",
-          "author": "Elizabeth Kolbert - 2014",
-          "id": 1
-      },
-      {
-          "title": "Walden!",
-          "body": "Written in the 1850s, it may come as a surprise to see Thoreau’s famed work appear on a list of best books on environmental science. When Thoreau wrote this book, there was no knowledge of climate change, accelerated biodiversity loss and future scenarios of global warming. This is an introspective work composed during a transformative time, which highlights humanity’s affinity for the natural world and the intersection between science and pure poetry. Written in Thoreau’s inimitable transcendentalist style, Walden is at its core a simple reflection on living in nature, at a time when the rest of the world was moving en masse to densely populated cities for the first time. On its surface, Walden is about finding meaning, purpose and independence, framed in an autobiographical story of Thoreau living in quiet solitude in the woodlands by Walden Pond in rural Massachusetts for two years. ",
-          "author": " Henry David Thoreau (1854)",
-          "id": 2
-      },
-      {
-          "title": "The World Without Us!",
-          "body": "Weisman’s The World Without Us is largely a thought experiment. It asks the question as to what the world would look like if we, humans, suddenly disappeared from it. What would happen to nature? To our cities? To all the things we left behind? The depth of humanity’s encroachment upon nature is hard to really imagine. We have built so much, and we have left footprints that will stay for generations to come. To really put into perspective how much human activity has affected the natural world, The World Without Us takes a step back and looks at how the world would react to our disappearance. How long would it take for nature to reclaim our cities? How will surviving species fare, and eventually evolve? And what will be the most lasting legacies of humanity on this planet? Steeped in a scientific understanding of the power of the natural world and the extent of humanity’s impact, The World Without Us creates a surreal and fantastical world to present what humanity’s relationship with nature really means.",
-          "author": "Alan Weisman (2007)",
-          "id": 3
-      }
+    {
+      "title": "As a Global Citizen of Earth - Take Action",
+      "body": "There have been five mass extinction events throughout the history of life on Earth. Each time biodiversity experienced a steep nosedive, wiping out abnormal amounts of species from the face of the planet. History's major extinction events happened because of natural events like shifts in the Earth's climate or incidents like asteroid strikes, but since humans began exercising our heavy grip on the planet, we may have inadvertently kicked off the sixth of these mass extinction events. In her Pulitzer Prize-winning work and arguably one of the best books on environmental science, Elizabeth Kolbert reports from the front line of biodiversity disappearance and ecological loss. By 2050, climate change may have driven the extinction of up to half of the world's species, a cataclysmic event initiated entirely by human development. Deforestation, sea level rise, and, most of all, greenhouse gas emissions are driving this mass extinction. What do we stand to lose? And what can we do to slow the pace of extinction? Writing with an unmatched entertaining and ironic voice, Kolbert also taps into the complex emotions that inevitably accompany witnessing such a tragedy and asks the biggest question that is increasingly difficult to answer. If this extinction comes to pass, then that will surely be the firmest imprint humanity could make on our planet. Are we okay with that being our most lasting legacy?",
+      "author": "Elizabeth Kolbert - 2014",
+      "id": 1
+    },
+    {
+      "title": "Walden!",
+      "body": "Written in the 1850s, it may come as a surprise to see Thoreau’s famed work appear on a list of best books on environmental science. When Thoreau wrote this book, there was no knowledge of climate change, accelerated biodiversity loss and future scenarios of global warming. This is an introspective work composed during a transformative time, which highlights humanity’s affinity for the natural world and the intersection between science and pure poetry. Written in Thoreau’s inimitable transcendentalist style, Walden is at its core a simple reflection on living in nature, at a time when the rest of the world was moving en masse to densely populated cities for the first time. On its surface, Walden is about finding meaning, purpose and independence, framed in an autobiographical story of Thoreau living in quiet solitude in the woodlands by Walden Pond in rural Massachusetts for two years. ",
+      "author": " Henry David Thoreau (1854)",
+      "id": 2
+    },
+    {
+      "title": "The World Without Us!",
+      "body": "Weisman’s The World Without Us is largely a thought experiment. It asks the question as to what the world would look like if we, humans, suddenly disappeared from it. What would happen to nature? To our cities? To all the things we left behind? The depth of humanity’s encroachment upon nature is hard to really imagine. We have built so much, and we have left footprints that will stay for generations to come. To really put into perspective how much human activity has affected the natural world, The World Without Us takes a step back and looks at how the world would react to our disappearance. How long would it take for nature to reclaim our cities? How will surviving species fare, and eventually evolve? And what will be the most lasting legacies of humanity on this planet? Steeped in a scientific understanding of the power of the natural world and the extent of humanity’s impact, The World Without Us creates a surreal and fantastical world to present what humanity’s relationship with nature really means.",
+      "author": "Alan Weisman (2007)",
+      "id": 3
+    },
+    {
+      "title": "How to make love",
+      "body": "i, yes, your daily PSA: Stop catering to men's needs as if yours don't matter. Especially in the bedroom. It’s the year 2021. As women channeling major Lizzo energy, it's just as important to seek your own pleasure as it is your partners.\n\nSo first off: Lose the regressive trope of needing to please your man, and only your man, because that’s totally backwards. Your orgasm matters just as much as your partner’s does (no matter what your genitalia looks like). We good? Good.\n\nNow, if you’re just in the slightest curious about what your man may crave in the bedroom, totally get that. Highly recommend you initiate a sex talk since great sex = great communication. But if you also just want to do your research first (you know, to figure out what you want to talk about before talking about it), we’ve gotchu.",
+      "author": "Henry David Thoreau",
+      "id": 4
+    },
+    {
+      "title": "How to do love",
+      "body": "i, yes, your daily PSA: Stop catering to men's needs as if yours don't matter. Especially in the bedroom. It’s the year 2021. As women channeling major Lizzo energy, it's just as important to seek your own pleasure as it is your partners.\n\nSo first off: Lose the regressive trope of needing to please your man, and only your man, because that’s totally backwards. Your orgasm matters just as much as your partner’s does (no matter what your genitalia looks like). We good? Good.\n\nNow, if you’re just in the slightest curious about what your man may crave in the bedroom, totally get that. Highly recommend you initiate a sex talk since great sex = great communication. But if you also just want to do your research first (you know, to figure out what you want to talk about before talking about it), we’ve gotchu.",
+      "author": "Elizabeth Kolbert",
+      "id": 5
+    },
+    {
+      "title": "a",
+      "body": "a",
+      "author": "Elizabeth Kolbert",
+      "id": 6
+    }
   ]
 }
