@@ -2,6 +2,7 @@
  
   --text-color-sm : #333;
   --text-color-md :#f1356d;
+  /* --text-color-md :#0a9df9; */
   --border-color : #dbd6d6;
   --shadow-color: rgba(0, 0, 0, 0.1)
 } 
@@ -10,6 +11,10 @@
   margin: 0;
   font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
   color: var(--text-color-sm);
+}
+
+a{
+  text-decoration: none;
 }
 
 .navbar {
@@ -76,4 +81,13 @@ button:hover{
   background: var(--text-color-md);
   color: rgb(182, 189, 190);
   box-shadow: 1px 3px 5px var(--shadow-color);
+}
+
+/* blog-details css */
+
+.blog-details div{
+  margin: 40px 0;
+  text-align: justify;
+  font-size: 1.5rem;
+  word-spacing: 2px;
 }

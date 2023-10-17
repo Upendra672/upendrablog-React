@@ -20,6 +20,9 @@ const [data, setData] = useState(null);
       }
     };
 
+    // react 18 uses autoCleanup function to stop rendering
+    // before 18 we used to use AbortController to destory the fetch
+
     fetchData();
   }, [url]);
 
