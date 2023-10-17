@@ -1,4 +1,4 @@
-const BlogList = ({ blogs, title, handleDelete }) => {
+const BlogList = ({ blogs, title }) => {
   // instead of this normal method of props we are using destructred properties
   //   const blogs = props.blogs;
   //   const title = props.title;
@@ -10,7 +10,7 @@ const BlogList = ({ blogs, title, handleDelete }) => {
         <div className="blog-previews" key={blog.id}>
           <h2>{blog.title}</h2>
           <p>Written by {blog.body}</p>
-          <button onClick={() => handleDelete(blog.id)}>Delete Blog</button>
+          {/* <button onClick={() => handleDelete(blog.id)}>Delete Blog</button> */}
         </div>
       ))}
     </div>
