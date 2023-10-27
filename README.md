@@ -13,4 +13,4 @@ Currently, two official plugins are available:
 npx json-server --watch data/db.json --port 8000
 
 ## To Start the client use this command:
-npm run dev for developer version
+npm run dev 
